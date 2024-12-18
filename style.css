@@ -1,0 +1,53 @@
+.center{
+    text-align:center;
+}
+.bold{
+    text-shadow:tan;
+}
+ul{
+    font-size:20px;
+    color:#FEF3E2;
+    background-color:#118B50
+}
+h3{
+    text-align:center;
+    background-color:#5DB996;
+    color:#FEF3E2
+    
+
+}
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+h4{
+    background-color:blueviolet
+}
+
+a{
+    color : skyblue;
+}
+
+*{
+
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+h4{
+    background-color:#118B50;
+    color:#FBF6E9;
+}
+li{
+    font-size:17px;
+}
+img{
+    border-radius: 55%;
+    vertical-align: middle;
+    width:120px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border:8px solid #118B50
+}
